@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-AdvancedReact-Coursera/static/css/main.df6a7eab.css",
+    "main.js": "/Portfolio-AdvancedReact-Coursera/static/js/main.45d7c306.js",
+    "static/js/111.944ce873.chunk.js": "/Portfolio-AdvancedReact-Coursera/static/js/111.944ce873.chunk.js",
+    "static/media/LFS.jpg": "/Portfolio-AdvancedReact-Coursera/static/media/LFS.f1c81e51ef25ce117aaa.jpg",
+    "static/media/MLBC.jpg": "/Portfolio-AdvancedReact-Coursera/static/media/MLBC.71a1fe1dad251f416efa.jpg",
+    "static/media/EcoEats.jpg": "/Portfolio-AdvancedReact-Coursera/static/media/EcoEats.71096db18a1ae5b324de.jpg",
+    "static/media/MoniCrop.jpg": "/Portfolio-AdvancedReact-Coursera/static/media/MoniCrop.615aa4d42229240f4d17.jpg",
+    "index.html": "/Portfolio-AdvancedReact-Coursera/index.html",
+    "main.df6a7eab.css.map": "/Portfolio-AdvancedReact-Coursera/static/css/main.df6a7eab.css.map",
+    "main.45d7c306.js.map": "/Portfolio-AdvancedReact-Coursera/static/js/main.45d7c306.js.map",
+    "111.944ce873.chunk.js.map": "/Portfolio-AdvancedReact-Coursera/static/js/111.944ce873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.45d7c306.js"
+  ]
+}
